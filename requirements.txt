@@ -1,0 +1,9 @@
+requests
+python-dotenv
+duckdb
+pandas
+pywikibot
+matplotlib
+pytest
+aiohttp
+typer
